@@ -5,11 +5,11 @@
 ## Sobre mim
 </div>
 
-- 🌱 Atualmente estou aprendendo sobre **Inteligência Artificial**.
-- 👯 Tenho desenvolvido **extensões para VSCode, Mozilla e Microsoft Edge**.
-- 💬 Pergunte-me sobre **desenvolvimento PHP e criação de extensões**.
-- 📫 Como me encontrar: [adrianojdx@gmail.com](mailto:adrianojdx@gmail.com)
-- ⚡ Curiosidade: Gosto de explorar novas tecnologias e desenvolver soluções inovadoras.
+- 💼 Sou um desenvolvedor dedicado com uma forte paixão por tecnologia e inovação.
+- 📚 Atualmente estou expandindo meus conhecimentos em **inteligência artificial** e **APIs**.
+- 🛠 Possuo experiência no desenvolvimento de extensões para **VSCode**, **Mozilla** e **Microsoft Edge**.
+- 💻 Especializado em **desenvolvimento PHP** com competências em **testes de software**.
+- 🌟 Estou sempre em busca de aprimorar minhas habilidades e contribuir em projetos desafiadores e inovadores.
 
 ---
 
